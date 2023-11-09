@@ -1,6 +1,6 @@
 ```
 Name: Vanitha S
-Register Number:
+Register Number: 212222100057
 ```
 # Experiment-08 Encoders and decoders 
 ### AIM: 
